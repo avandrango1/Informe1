@@ -323,7 +323,7 @@ Conclusiones
 
 La Utilización de notación cietifica y prefijos metricos es muy importante, pues nos ayuda a simplificar el trabajo y hacerlo más entendible.
 
-Las formulas de voltaje, corriente y resistencia, son necesarias para resolver diversos problemas ademas nos ayudan a entender como funcionan ciertos objetos.
+Las fórmulas e instrumentos de voltaje, corriente y resistencia, son necesarias para resolver diversos problemas, ademas nos ayudan a entender como funcionan ciertos objetos y su importancia en la vida diaria.
  
 Bibliografia
 Floyd, T.L. (2007) Principios de Circuitos eléctricos. México: Pearson Educación. 
