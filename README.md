@@ -318,6 +318,7 @@ R=Como el interruptor DC VOLTS esta en 600, analizamos en la escala de AC-CD int
  
 
 Video 
+https://youtu.be/si_l20IqZaA
 
 Conclusiones
 
