@@ -1,8 +1,19 @@
 # Informe1
 Objetivos
+
+Ampliar el concociento en relación a la electrónica partiendo de lo básico, de esta manera el desempeño durante el curso sera sobresaliente.
+
+Reconocer la importancia de los prefijos métricos y saber cuando utilizarlos, pues se los utilizara de manera repetitiva
+
+Analizar la utilidad del voltaje, corriente, resistencia y saber identificar sus fórmulas e instrumentos de medida.
+
+Aprender a manejar instrumentos utilizados en la electronica y los cuidados sobre los mismos.
+
 Marco teorico (Resumen) 
 ![image](https://user-images.githubusercontent.com/117759439/201265082-a34f7a64-ee74-4d9a-8616-2cc4b802a2e6.png)
 ![image](https://user-images.githubusercontent.com/117759439/201267484-36d4466c-9706-4006-8a9c-e6b708391709.png)
+
+![image](https://user-images.githubusercontent.com/117759439/201414000-b826a4fb-8b29-468b-be4e-bf2a540ae7b1.png)
 
 
 Resolución de ejercicios (Impares)
@@ -306,8 +317,13 @@ R=Como el interruptor DC VOLTS esta en 600, analizamos en la escala de AC-CD int
 ![image](https://user-images.githubusercontent.com/117759439/201258110-40000f9a-bad5-4824-93a7-5eb6f21b2d18.png)   c
  
 
-
-
 Video 
+
 Conclusiones
+
+La Utilización de notación cietifica y prefijos metricos es muy importante, pues nos ayuda a simplificar el trabajo y hacerlo más entendible.
+
+Las formulas de voltaje, corriente y resistencia, son necesarias para resolver diversos problemas ademas nos ayudan a entender como funcionan ciertos objetos.
+ 
 Bibliografia
+Floyd, T.L. (2007) Principios de Circuitos eléctricos. México: Pearson Educación. 
