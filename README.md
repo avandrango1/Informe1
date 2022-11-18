@@ -1,7 +1,7 @@
 # Informe1
 Objetivos
 
-Ampliar el concociento en relación a la electrónica partiendo de lo básico, de esta manera el desempeño durante el curso sera sobresaliente.
+Ampliar el conocimieto en relación a la electrónica partiendo de lo básico, de esta manera el desempeño durante el curso sera sobresaliente.
 
 Reconocer la importancia de los prefijos métricos y saber cuando utilizarlos, pues se los utilizara de manera repetitiva
 
